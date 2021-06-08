@@ -44,5 +44,5 @@ Connect an Android device to your development machine.
 * Select the device you wish to run the app on and click 'OK'
 
 ### Screenshots 🛠️
-|<img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174663/isilcejolf2aq0cltaa2.png" width="100%" > | <img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174682/dg0lso6qweekybikutj2.png" height="100%" width="100%">|<img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174722/xtt8tmswfzwcorpprxbv.png" width="100%">| <img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174746/zmq7qzmpiv5bw1toness.png" width="100%">|
+|<img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174663/isilcejolf2aq0cltaa2.png" width="100%" > | <img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623175054/hgacn5k5keusbz5ddwdz.png" width="100%">|<img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174722/xtt8tmswfzwcorpprxbv.png" width="100%">| <img src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1623174746/zmq7qzmpiv5bw1toness.png" width="100%">|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
