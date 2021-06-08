@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404795121438",
+    "project_id": "socialify-449c1",
+    "storage_bucket": "socialify-449c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404795121438:android:80b2d6ef18f71dd30af30f",
+        "android_client_info": {
+          "package_name": "com.vignesh.socialify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404795121438-9tlbml02ohtbkie9r8nsp40jkp22r0ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gQtaNJYHDBRExIYcnUdc7ljGbGStL68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404795121438-9tlbml02ohtbkie9r8nsp40jkp22r0ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
